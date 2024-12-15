@@ -4,9 +4,6 @@
 
 ## **Acknowledgemnents**
 
-
-Here's a refined version of your acknowledgment for the GitHub README:
-
 This project, though far from perfect, represents our journey as first-semester Bachelor's students in Electronics and Communication Engineering (ECE). While the results may not be groundbreaking, it has been an invaluable learning experience. We embarked on this project driven by curiosity and a desire to explore quantum computing and federated learning, even if the outcome wasn't as impressive as we hoped.
 
 We would like to thank our seniors, Nandan Patel and Ashwin, for their guidance and feedback, which helped shape our understanding, even though we still have a lot to learn. We also appreciate Dr. Reena Monica, Associate Dean of the School of Electronics Engineering at VIT Chennai, for her time and encouragement throughout the process.

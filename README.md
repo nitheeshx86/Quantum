@@ -1,7 +1,5 @@
 # Parallelised Anomaly Neural Training
 
-**Submitted for NYUAD CQTS Qinnovision 2025 Project on Quantum Federated Fraud Detection**
-
 ## **Acknowledgemnents**
 
 This project, though far from perfect, represents our journey as first-semester Bachelor's students in Electronics and Communication Engineering (ECE). While the results may not be groundbreaking, it has been an invaluable learning experience. We embarked on this project driven by curiosity and a desire to explore quantum computing and federated learning, even if the outcome wasn't as impressive as we hoped.

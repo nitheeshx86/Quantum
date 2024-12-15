@@ -4,11 +4,11 @@
 
 This project, though far from perfect, represents our journey as first-semester Bachelor's students in Electronics and Communication Engineering (ECE). While the results may not be groundbreaking, it has been an invaluable learning experience. We embarked on this project driven by curiosity and a desire to explore quantum computing and federated learning, even if the outcome wasn't as impressive as we hoped.
 
-We would like to thank our seniors, Nandan Patel and Ashwin, for their guidance and feedback, which helped shape our understanding, even though we still have a lot to learn. We also appreciate Dr. Reena Monica, Associate Dean of the School of Electronics Engineering at VIT Chennai, for her time and encouragement throughout the process.
+We would like to thank our seniors, **Nandan Patel and Ashwin**, for their guidance and feedback, which helped shape our understanding, even though we still have a lot to learn. We also appreciate **Dr. Reena Monica, Associate Dean of the School of Electronics Engineering at VIT Chennai**, for her time and encouragement throughout the process.
 
 We fully acknowledge the imperfections in this project and are open to collaborating with anyone who believes we have the potential to improve. We hope to have the opportunity to work with eBRAIN Lab and CQTS at New York University Abu Dhabi to further develop our solutions properly and hopefully get our much-needed guidance and support.
 
-A special thanks to Dr. Nouhaila Innan for her inspiring talk during the Qiskit Fall Fest, which ignited our interest in this competition and motivated us to take on this challenge.
+A special thanks to **Dr. Nouhaila Innan** for her inspiring talk during the Qiskit Fall Fest, which ignited our interest in this competition and motivated us to take on this challenge.
 
 While this project may not be groundbreaking, it has been a valuable stepping stone in our learning journey. We look forward to improving and continuing to explore new ideas. Thank you to everyone who supported us along the way!
 

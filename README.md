@@ -2,7 +2,7 @@
 
 **Submitted for NYUAD CQTS Qinnovision 2025 Project on Quantum Federated Fraud Detection**
 
-##Acknowledgemnents
+## **Acknowledgemnents**
 
 
 Here's a refined version of your acknowledgment for the GitHub README:
